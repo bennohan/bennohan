@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennohan
 - 👀 I’m interested in something about computer
-- 🌱 I’m currently learning Android Programing Kotln
+- 🌱 I’m currently learning Android Developer Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
